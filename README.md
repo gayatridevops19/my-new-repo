@@ -1,2 +1,2 @@
 # my-new-repo
-My new repo in github
+My new repo on github
